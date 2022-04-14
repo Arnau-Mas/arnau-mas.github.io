@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.e16032d7.chunk.css",
-    "main.js": "/home/static/js/main.27c6d92e.chunk.js",
-    "main.js.map": "/home/static/js/main.27c6d92e.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.3400e9ff.chunk.js": "/home/static/js/2.3400e9ff.chunk.js",
-    "static/js/2.3400e9ff.chunk.js.map": "/home/static/js/2.3400e9ff.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.df84cd9571af5c9c3b4e97876ee49e51.js": "/home/precache-manifest.df84cd9571af5c9c3b4e97876ee49e51.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.e16032d7.chunk.css.map": "/home/static/css/main.e16032d7.chunk.css.map",
-    "static/js/2.3400e9ff.chunk.js.LICENSE.txt": "/home/static/js/2.3400e9ff.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/resume.pdf": "/home/static/media/resume.9d3da0e2.pdf"
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.d07a3f48.chunk.js",
+    "main.js.map": "/static/js/main.d07a3f48.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.9af5d0da.chunk.js": "/static/js/2.9af5d0da.chunk.js",
+    "static/js/2.9af5d0da.chunk.js.map": "/static/js/2.9af5d0da.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b72b02ff91fdac02dff7aaae84491abb.js": "/precache-manifest.b72b02ff91fdac02dff7aaae84491abb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.9af5d0da.chunk.js.LICENSE.txt": "/static/js/2.9af5d0da.chunk.js.LICENSE.txt",
+    "static/media/avisame.png": "/static/media/avisame.03c34d41.png",
+    "static/media/circleagency.png": "/static/media/circleagency.6d5fd6d2.png",
+    "static/media/profile.jpg": "/static/media/profile.4f8acd25.jpg",
+    "static/media/resume.pdf": "/static/media/resume.e9dbe6f1.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
-    "static/js/2.3400e9ff.chunk.js",
-    "static/css/main.e16032d7.chunk.css",
-    "static/js/main.27c6d92e.chunk.js"
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.9af5d0da.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.d07a3f48.chunk.js"
   ]
 }
